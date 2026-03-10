@@ -15,3 +15,4 @@ print("Lohi on alamittainen, siitä puuttuu", puuttuu, "cm.")
 
 
 
+
